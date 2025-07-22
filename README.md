@@ -9,5 +9,5 @@ Detect Ripe Fruit with a Visible Light Circuit Using IRFZ44N MOSFET
 -  Proteus simulation files
 -  Circuit diagrams or photos
 
-📌 Project Abstract
+ 
  
